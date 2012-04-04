@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepApp", "WepApp\WepApp.csproj", "{431CD3C7-9877-4403-B78A-A0E104E2A614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431CD3C7-9877-4403-B78A-A0E104E2A614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431CD3C7-9877-4403-B78A-A0E104E2A614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431CD3C7-9877-4403-B78A-A0E104E2A614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431CD3C7-9877-4403-B78A-A0E104E2A614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
