@@ -1,5 +1,4 @@
 ﻿using System.Web.Mvc;
-using Common;
 
 namespace WepApp.Controllers
 {
@@ -10,7 +9,7 @@ namespace WepApp.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "Hey, ".AppendDude();
+            ViewBag.Message = "Hey, Dude.";
             return View();
         }
 
